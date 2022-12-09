@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Sebastian Richter (GitHub nick: @sebastianrichter711)
+# 👋 Hi, I’m Sebastian Richter
+- GitHub nick: @sebastianrichter711
 - 👀 I’m interested in programming in C#, .NET and Python. I like implementing web and desktop apps.
 - 🌱 I’m currently studying Computer Science at the Faculty of Automatic Control, Electronics and Computer Science of Silesian University of Technology in Gliwice as part of the Master's programme. In February 2022, I became an engineer at this faculty.  
 - ⚽️ My hobby is sport. Sometimes we can meet me as a volunteer during major sports events such as World and European Championships.
