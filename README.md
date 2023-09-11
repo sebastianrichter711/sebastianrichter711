@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Sebastian Richter
-
 ![alt text](https://github.com/sebastianrichter711/Photorepo/blob/main/tło_social_media.png?raw=true)
+
+# 👋 Hi, I’m Sebastian Richter
 
 ![](https://komarev.com/ghpvc/?username=sebastianrichter711&color=green)
 
